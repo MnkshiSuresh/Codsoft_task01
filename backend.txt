@@ -1,0 +1,8 @@
+npm run start:dev
+
+
+main.ts --> main
+#8000
+#module->controller->services
+
+http://localhost:8000
